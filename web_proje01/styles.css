@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #9d9d9d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-container {
+    background-color: rgba(132, 132, 132, 0.7); /* Renk ve saydamlık değerini ayarlayın */
+    padding: 10%; /* Padding'i azaltarak içeriğin kenarlara olan uzaklığını azaltın */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(100, 100, 96, 0.1);
+    height: 150px;
+    width: 200px; /* Kutunun genişliğini ayarlayın */
+    max-width: 80%; /* Maksimum genişliği belirleyin */
+    position: absolute; /* Mutlak pozisyon */
+    top: 50%; /* Dikeyde ortala */
+    left: 50%; /* Yatayda ortala */
+    transform: translate(-50%, -50%); /* Ortala */
+    z-index: 2; /* Diğer öğelerin üzerine gelmesini sağlamak için z-index'i artırın */
+}
+
+.background-image {
+    background-image: url('konya.jpg'); /* Resminizin URL'sini buraya ekleyin */
+    background-size: cover;
+    background-position: center;
+    opacity: 3; /* Arka plan resminin opaklığını ayarlayabilirsiniz */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-container h3 
+{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: bold; /* Yazıyı kalın yap */
+    font-size: 24px; /* Yazı boyutunu ayarla */
+    margin-bottom: 20px; /* Alt boşluğu ayarla */
+    margin-left: 50px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+    margin-top: 10px;
+    
+    
+}
+
+.input-group input {
+    width: 130%;
+    padding: 10px;
+    border: 2px solid #000000; /* Kenarlık kalınlığını arttır */
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-left: -40px;
+    font-weight: bold; /* Yazı kalınlığını kalın yap */
+    font-size: 16px; /* Yazı boyutunu artır */
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #e52828;
+    color: #fff;
+    transition: background-color 0.7s ease;
+    border-radius: 15px;
+    margin-left: -10px;
+}
+
+button[type="submit"]:hover {
+    background-color: #4fb852;
+}
+
