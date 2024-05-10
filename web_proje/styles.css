@@ -27,7 +27,7 @@ body {
     background-image: url('konya.jpg'); /* Resminizin URL'sini buraya ekleyin */
     background-size: cover;
     background-position: center;
-    opacity: 0.5; /* Arka plan resminin opaklığını ayarlayabilirsiniz */
+    opacity: 3; /* Arka plan resminin opaklığını ayarlayabilirsiniz */
     position: fixed;
     top: 0;
     left: 0;
@@ -35,6 +35,7 @@ body {
     height: 100%;
     z-index: 1;
 }
+
 
 h2 {
     text-align: center;
