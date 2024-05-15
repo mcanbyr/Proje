@@ -1,0 +1,264 @@
+
+
+body{
+  background: #14652e;
+
+
+}
+
+.takim-kutu {
+  margin-top: 5%;
+border: 1px solid #ccc;
+border-radius: 1px;
+box-sizing: border-box;
+text-align: center; /* İçeriği ortala */
+background-color: #fff;
+line-height: 1.8;
+max-width:90%;
+margin: 40px auto;
+padding: 20px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.takim-kutu h1{
+  color: #e63535;
+  margin-bottom: -5%;
+}
+
+.takim-kutu img {
+width: 500px; 
+height: 300px;
+margin-top: 30px;
+margin-bottom: 10px;
+margin-left: 5px;
+}
+
+
+
+.takim-kutu h3 {
+margin-top: 120px;
+margin-bottom: -35px;
+}
+
+.takim-kutu table {
+width: 100%;
+border-collapse: collapse;
+margin-top: -10px;
+}
+    
+.takim-kutu table th, .takim-kutu table td {
+border: 1px solid #ddd;
+padding: 8px;
+text-align: left;
+}
+    
+.takim-kutu table th {
+background-color: #f2f2f2;
+}
+
+.sosyal-medya-iconlar {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  
+}
+
+.sm-kutu{
+  text-align: center;
+  border: 5px solid #14652e;
+  box-sizing: border-box;
+  width: 500px;
+  height: 0 auto;
+  margin-left: 28%;
+}
+
+.sosyal-medya-iconlar a {
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+.sosyal-medya-iconlar a:first-child {
+  margin-left: 0;
+}
+
+.sosyal-medya-iconlar a:last-child {
+  margin-right: 0;
+}
+
+/* YouTube ikonu için kırmızı renk tanımı */
+.sosyal-medya-iconlar a[href*="youtube.com"] i {
+  color: red;
+}
+
+/* Twitter ikonu için mavi renk tanımı */
+.sosyal-medya-iconlar a[href*="twitter.com"] i {
+  color: #1DA1F2;
+}
+
+/* Instagram ikonu için koyu kırmızı renk tanımı */
+.sosyal-medya-iconlar a[href*="instagram.com"] i {
+  color: #C13584;
+}
+#container {
+  text-align: center;
+}
+
+#container ul {
+  text-align: left;
+  margin: auto;
+  max-width: 600px; /* Yazının maksimum genişliğini belirleyebilirsiniz */
+}
+
+.ytvideo{
+  text-align: center; /* Videoyu ortalamak için */
+  width: 100%; /* Videoyu genişlik olarak container'a sığdır */
+  height: 100%;
+  height: auto; /* Yükseklik oranını koru */
+  display: block; /* Dikey hizalama için */
+  margin: 0 auto; /* Yatayda ortalamak için */
+  margin-top: 75px;
+}
+
+.ytvideo iframe {
+  width: 700px; /* Video genişliğini 100% olarak ayarla */
+  height: 450px; /* Video yüksekliğini istediğiniz bir değer olarak ayarlayabilirsiniz */
+}
+
+.takim-kutu h1{
+  color: #e63535;
+  margin-bottom: -5%;
+}
+
+.takim-kutu img {
+width: 500px; 
+height: 300px;
+margin-top: 30px;
+margin-bottom: 10px;
+margin-left: 5px;
+}
+
+.takim-kutu table {
+width: 100%;
+border-collapse: collapse;
+}
+    
+.takim-kutu table th, .takim-kutu table td {
+border: 1px solid #ddd;
+padding: 8px;
+text-align: left;
+}
+    
+.takim-kutu table th {
+background-color: #f2f2f2;
+}
+
+.sosyal-medya-iconlar {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  
+}
+
+.sm-kutu{
+  text-align: center;
+  border: 5px solid #14652e;
+  box-sizing: border-box;
+  width: 500px;
+  height: 0 auto;
+  margin-left: 28%;
+}
+
+.sosyal-medya-iconlar a {
+  font-size: 24px;
+  margin: 0 10px;
+}
+
+.sosyal-medya-iconlar a:first-child {
+  margin-left: 0;
+}
+
+.sosyal-medya-iconlar a:last-child {
+  margin-right: 0;
+}
+
+/* YouTube ikonu için kırmızı renk tanımı */
+.sosyal-medya-iconlar a[href*="youtube.com"] i {
+  color: red;
+}
+
+/* Twitter ikonu için mavi renk tanımı */
+.sosyal-medya-iconlar a[href*="twitter.com"] i {
+  color: #1DA1F2;
+}
+
+/* Instagram ikonu için koyu kırmızı renk tanımı */
+.sosyal-medya-iconlar a[href*="instagram.com"] i {
+  color: #C13584;
+}
+#container {
+  text-align: center;
+}
+
+#container ul {
+  text-align: left;
+  margin: auto;
+  max-width: 600px; /* Yazının maksimum genişliğini belirleyebilirsiniz */
+}
+
+.ytvideo{
+  text-align: center; /* Videoyu ortalamak için */
+  width: 100%; /* Videoyu genişlik olarak container'a sığdır */
+  height: 100%;
+  height: auto; /* Yükseklik oranını koru */
+  display: block; /* Dikey hizalama için */
+  margin: 0 auto; /* Yatayda ortalamak için */
+  margin-top: 75px;
+}
+
+
+
+
+@media (max-width: 768px) {
+
+  .ytvideo iframe {
+    max-width: 100%; /* Videoyu ekranın tam genişliğine yay */
+    height: auto; /* Yüksekliği otomatik ayarla */
+    width: 100%; /* Video genişliğini 100% olarak ayarla */
+    height: 250px; /* Video yüksekliğini istediğiniz bir değer olarak ayarlayabilirsiniz */
+  }
+  
+  
+  .ytvideo {
+    max-width: 100%; /* Videoyu ekranın tam genişliğine yay */
+    height: auto; /* Yüksekliği otomatik ayarla */
+    margin-left: auto; /* Sol kenarı otomatik hizala */
+    margin-right: auto; /* Sağ kenarı otomatik hizala */
+  }
+
+.sm-kutu{
+  width: 100%; /* Resmi ekran genişliğine yay */
+  height: auto; /* Yüksekliği otomatik ayarla */
+  margin-left: auto; /* Sol kenarı otomatik hizala */
+  margin-right: auto; /* Sağ kenarı otomatik hizala */
+
+}
+
+.sosyal-medya-iconlar{
+  width: 100%; /* Resmi ekran genişliğine yay */
+  height: auto; /* Yüksekliği otomatik ayarla */
+  margin-left: auto; /* Sol kenarı otomatik hizala */
+  margin-right: auto; /* Sağ kenarı otomatik hizala */
+
+}
+
+.takim-kutu img{
+  width: 100%; /* Resmi ekran genişliğine yay */
+  height: auto; /* Yüksekliği otomatik ayarla */
+  margin-left: auto; /* Sol kenarı otomatik hizala */
+  margin-right: auto; /* Sağ kenarı otomatik hizala */
+}
+
+
+}
+
+

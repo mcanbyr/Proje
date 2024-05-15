@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+main {
+    width: 80%;
+    max-width: 100%; /* Örnek olarak %80'e ayarladım, ihtiyacınıza göre değiştirebilirsiniz */
+    margin: 0 auto;
+    overflow-x: auto; /* Yatay kaydırma çubuğunu eklemek için */
+    white-space: nowrap; /* Metinlerin satır sonu otomatik dönmesini engellemek için */
+}
+h1 {
+    margin-top: 10%;
+    margin-bottom: 0%;
+    color: #a7002a;
+    text-align: center;
+    font-size: 250%;
+}
+
+h2 {
+    color: #009688;
+}
+
+#cv{
+    border: 1px solid #ccc;
+    max-width:100%;
+    padding: 5%;
+    margin: 40px auto;
+    border-radius: 10px;
+}
+
+.grafik-container {
+    text-align: center; /* Grafik ortalamak için */
+    max-width:100%;
+    margin: 40px auto;
+
+}
+
+#canvas {
+    border: 1px solid #ccc;
+    padding: 5%;
+    border-radius: 10px;
+
+}
+
+section h2 {
+    border-bottom: 2px solid #009688;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.yazılımbaslık{
+    text-align: center;
+    color: #a7002a;
+    font-size: 5ch;
+}
