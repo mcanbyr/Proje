@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:200,300,400,400i,700");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:200,400,400i,700");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Lato, sans-serif;
+}
+
+body {
+    background-color: #181818;
+    color: #d8d8d8;
+}
+
+.container {
+    padding: 10%;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 2.5em;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-align: center;
+    font-family: Lora, serif;
+    font-weight: 200;
+    display: inline-block;
+    position: relative;
+    padding: 0 1em; /* Başlığın etrafına boşluk ekler */
+}
+
+.container h1::before,
+.container h1::after {
+    content: '─';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #686868;
+}
+
+.container h1::before {
+    left: -1em; /* soldaki çizginin pozisyonu */
+}
+
+.container h1::after {
+    right: -1em; /* sağdaki çizginin pozisyonu */
+}
+
+.boxes {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    justify-content: space-between;
+}
+
+.box {
+    width: 48%;
+    font-size: 1em;
+    line-height: 1.5em;
+    font-weight: 200;
+    padding: 2vw;
+    margin-bottom: 20px;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-image: linear-gradient(to bottom, #181818, #eee, #181818) 1 100%;
+}
+
+.box .icon {
+    font-size: 4em;
+    color: #555;
+    margin-bottom: 0.6em;
+}
+
+.box .icon:hover {
+    color: #d8d8d8;
+}
+
+.box h2 {
+    font-size: 1.3em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 200;
+    line-height: 1em;
+    color: #f2f2f2;
+}
+
+.box .piece-count {
+    font-style: italic;
+    color: #9f9f9f;
+    margin-bottom: 1.2em;
+    letter-spacing: 1px;
+    font-family: Lora, serif;
+}
+
+/* Medya sorgusu ekleyerek düzenleme */
+@media (max-width: 768px) {
+    .boxes {
+        justify-content: center;
+    }
+
+    .box {
+        width: 100%;
+    }
+
+    .container h1 {
+        padding: 0; /* Küçük ekranlarda padding'i sıfırlayın */
+    }
+
+    .container h1::before,
+    .container h1::after {
+        content: none; /* Küçük ekranlarda çizgileri gizleyin */
+    }
+}
+
+
+.grafik-container {
+    text-align: center; 
+    max-width: 100%; /* Ekranın genişliği kadar */
+    height: auto; /* Otomatik yükseklik */
+    margin: 1% auto;
+}
+
+#canvas {
+    border: 1px solid #ccc;
+    padding: 1%;
+    border-radius: 10px;
+    max-width: 100%; /* Grafik container'ın genişliği kadar */
+    height: auto; /* Otomatik yükseklik */
+}
+
+section h2 {
+    border-bottom: 2px solid #009688;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.yazılımbaslık{
+    text-align: center;
+    color: #d3c3c7;
+    font-size: 5ch;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box a {
+    color: rgb(66, 255, 129); /* Normal link rengi */
+    text-decoration: none; /* Alt çizgiyi kaldırmak için */
+}
+.box a:hover {
+    color: red; /* Üzerine gelindiğinde link rengi */
+}
+.box a:visited {
+    color: green; /* Ziyaret edilmiş link rengi */
+}
+.box a:active {
+    color: purple; /* Tıklanma anındaki link rengi */
+}
