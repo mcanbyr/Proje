@@ -1,0 +1,32 @@
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.exe
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.deps.json
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.runtimeconfig.json
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.dll
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.pdb
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.Form1.resources
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.csproj.GenerateResource.cache
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.AssemblyInfoInputs.cache
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.AssemblyInfo.cs
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.dll
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\refint\Proje_NDP.dll
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.pdb
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.genruntimeconfig.cache
+C:\Users\VICTUS\NDP PROJE\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\ref\Proje_NDP.dll
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.exe
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.deps.json
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.runtimeconfig.json
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.dll
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\bin\Debug\net7.0-windows\Proje_NDP.pdb
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.Form1.resources
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.csproj.GenerateResource.cache
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.dll
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\refint\Proje_NDP.dll
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.pdb
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\Proje_NDP.genruntimeconfig.cache
+C:\Users\VICTUS\OneDrive\Masaüstü\ndp_proje\Proje_NDP\Proje_NDP\obj\Debug\net7.0-windows\ref\Proje_NDP.dll
