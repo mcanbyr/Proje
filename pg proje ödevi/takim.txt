@@ -1,0 +1,6 @@
+1 Galatasaray Sariyer/Istanbul 02123051905 11 Dursun_Ozbek 0
+2 Fenerbahce Kadıkoy/Istanbul 02125421907 11 Ali_Koc 0
+3 Besiktas Besiktas/Istanbul 021294811903 11 Hasan_Arat 0
+4 Trabzonspor Ortahisar/Trabzon 04623250967 11 Ertugrul_Dogan 0
+5 Bursaspor Osmangazi/Bursa 02242255518 11 Recep_Gunay 0
+6 Konyaspor Selcuklu/Konya 03323531522 11 Omer_Korkmaz 0
