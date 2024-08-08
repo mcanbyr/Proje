@@ -1,0 +1,4 @@
+C:\Users\VICTUS\projelerim\pg_odev2\x64\Debug\pg_odev2.exe
+C:\Users\VICTUS\OneDrive\Masaüstü\pg_odev2\x64\Debug\pg_odev2.exe
+C:\Users\VICTUS\OneDrive\Masaüstü\pgodev_2\pg_odev2\x64\Debug\pg_odev2.exe
+C:\Users\VICTUS\DOSYALAR\Projelerim\pgodev_2\pg_odev2\x64\Debug\pg_odev2.exe

@@ -1,0 +1,5 @@
+﻿  pg_odev2.cpp
+C:\Users\VICTUS\DOSYALAR\Projelerim\pgodev_2\pg_odev2\pg_odev2.cpp(106,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\VICTUS\DOSYALAR\Projelerim\pgodev_2\pg_odev2\pg_odev2.cpp(243,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\VICTUS\DOSYALAR\Projelerim\pgodev_2\pg_odev2\pg_odev2.cpp(306,92): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  pg_odev2.vcxproj -> C:\Users\VICTUS\DOSYALAR\Projelerim\pgodev_2\pg_odev2\x64\Debug\pg_odev2.exe
